@@ -3,9 +3,9 @@ Source highlight
 
 Simple tool to show code with syntax highlight.
 
-Based on [pygments](http://pygments.org/). Also uses
-[click](http://click.pocoo.org/6/), so make sure you have those two
-installed.
+Based on `pygments <http://pygments.org/>`_.
+Also uses `click <http://click.pocoo.org/6/>`_, so make sure you have
+those two installed.
 
 It's a single-file project, so copy it anywhere. I have it symlinked
 as ``~/bin/hl``.
